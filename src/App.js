@@ -17,6 +17,7 @@ import CheckoutPage from './pages/checkout/checkout.component';
 
 
 
+
 class App extends React.Component {
   
   unsubscribeFromAuth = null;
